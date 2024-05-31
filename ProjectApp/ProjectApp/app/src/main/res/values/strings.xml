@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjektApp</string>
+    <string name="please_wait">Loading</string>
+    <string name="no_internet">No connection...</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">About</string>
+    <string name="items">Items</string>
+    <string name="exit">Exit</string>
+    <string name="really_exit_the_application">Are you sure you wish to exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_made_by">app made by Lovro Kršul</string>
+    <string name="Date">Date</string>
+    <string name="Title">Title</string>
+    <string name="Body">Body</string>
+
+
+</resources>
